@@ -1,3 +1,12 @@
+@font-face {
+  font-family: 'Chakra Petch';
+  src: url(https://fonts.gstatic.com/s/chakrapetch/v11/cIf6MapbsEk7TDLdtEz1BwkWn6pgar3I1A.woff2) format('woff2');
+}
+
+:root {
+  --font-primary: Chakra Petch, 'Chakra Petch Regular', sans-serif !important;
+  --font-display: Chakra Petch, 'Chakra Petch Regular', sans-serif !important;
+}
 :root .container-3wLKDe {
   background: var(--background-primary);
 }
